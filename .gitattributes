@@ -1,0 +1,22 @@
+# GitHub Linguist configuration to ensure 100% Kotlin
+*.xml linguist-detectable=false
+*.xml linguist-vendored
+*.json linguist-detectable=false
+*.json linguist-vendored
+*.properties linguist-detectable=false
+*.properties linguist-vendored
+*.gradle linguist-detectable=false
+*.gradle linguist-vendored
+*.gradle.kts linguist-detectable=false
+*.gradle.kts linguist-vendored
+*.pro linguist-detectable=false
+*.pro linguist-vendored
+*.docx linguist-documentation
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.jar linguist-vendored
+gradlew linguist-vendored
+gradlew.bat linguist-vendored
+
+*.kt linguist-detectable=true

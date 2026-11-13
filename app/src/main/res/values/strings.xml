@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WorldCinema</string>
+    <string name="sign_in">Войти</string>
+    <string name="email_label">E-mail</string>
+    <string name="email_hint">you@example.com</string>
+    <string name="password_label">Пароль</string>
+    <string name="password_hint">Ваш пароль</string>
+    <string name="discussions">Обсуждения</string>
+    <string name="movies">Фильмы</string>
+    <string name="favorites">Избранное</string>
+    <string name="new_movies">Новое</string>
+    <string name="empty_fields_warning">Заполните поля E-mail и Пароль</string>
+    <string name="login_success">Успешный вход в систему</string>
+</resources>
